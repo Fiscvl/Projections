@@ -1,0 +1,12 @@
+[submodule "Expenses"]
+	path = Expenses
+	url = https://github.com/Fiscvl/Expenses.git
+[submodule "RevenueSaaS"]
+	path = RevenueSaaS
+	url = https://github.com/Fiscvl/RevenueSaaS.git
+[submodule "BaseProjections"]
+	path = BaseProjections
+	url = https://github.com/Fiscvl/BaseProjections.git
+[submodule "Compensation"]
+	path = Compensation
+	url = https://github.com/Fiscvl/Compensation.git
